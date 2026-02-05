@@ -9,10 +9,11 @@ My main interests revolve around security research, exploit development, and dig
 [HackerOne](https://hackerone.com/hyperxon?type=user)
 
 ### 🧩 What I Do
--  **Binary Exploitation** & **Reverse Engineering**  
+-  **Active Directory**
 -  **Web Exploitation**  
 -  **Digital Forensics**
 -  **Hardware & Low-Level Computing**
+-  **Binary Exploitation** & **Reverse Engineering** 
 
 ### 🌐 Personal Sites
 
@@ -24,5 +25,5 @@ My main interests revolve around security research, exploit development, and dig
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,bash,linux,docker,git,postman,androidstudio,arduino,kali" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,r,flutter,firebase,bootstrap,java,c,solidity,bash,linux,docker,kubernetes,git,postman,androidstudio,arduino,raspberrypi,kali,arch" />
 </p>
