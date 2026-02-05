@@ -21,7 +21,4 @@ My main interests revolve around security research, exploit development, and dig
 [Documentation](https://hoxon.gitbook.io/safe-and-secure)  
 
 ### 🛠️ Languages and Tools
-
-<br>
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,py,r,flutter,firebase,bootstrap,java,c,solidity,bash,linux,docker,kubernetes,git,postman,androidstudio,arduino,raspberrypi,kali,arch)
