@@ -26,6 +26,7 @@ My main interests revolve around security research, exploit development, and dig
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,py,r,flutter,firebase,bootstrap,java,c,solidity,bash,linux,docker,kubernetes,git,postman,androidstudio,arduino,raspberrypi,kali,arch" />
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,py,r,flutter,firebase,bootstrap,java,c,solidity,bash,linux,docker,kubernetes,git,postman,androidstudio,arduino,raspberrypi,kali,arch)
 </p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,py,r,flutter,firebase,bootstrap,java,c,solidity,bash,linux,docker,kubernetes,git,postman,androidstudio,arduino,raspberrypi,kali,arch)
+
